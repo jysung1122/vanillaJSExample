@@ -12,6 +12,6 @@
 - 현재 시간 출력
 - 배경화면 img 파일 안에 있는 사진들로 랜덤으로 변경
 - [OpenWeather](https://openweathermap.org/api)의 API를 활용해 위도와 경도를 통한 지역의 날씨 출력 ( 서버에서 데이터를 가지고 오는 시간이 필요해 살짝 늦음 )
-- 위 사이트에 로그인 후 각자의 API 받고 변경 해야함
+- 위 사이트에 로그인 후 각자의 API 받고 변경 해야함( weather.js )
 - quotes.js에 있는 명언들 랜덤으로 출력
 - CSS 적용 X
