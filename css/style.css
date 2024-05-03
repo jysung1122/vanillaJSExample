@@ -1,0 +1,7 @@
+.hidden {
+    display: none;
+}
+
+body {
+    overflow: hidden; /* 스크롤바를 숨깁니다. */
+}
