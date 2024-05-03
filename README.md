@@ -3,7 +3,7 @@
 - ReactJS를 공부하기 전 바닐라 JS에 대해 먼저 알아보고 공부하기 위해 찍먹해봄
 - [노마드 코더](https://nomadcoders.co)에서 배운 바닐라 JS 기초
 - [예제 사이트](https://jysung1122.github.io/vanillaJSExample/)
-- ***크롬 사용 권장***
+- * **크롬 사용 권장** *
 
 ## 기능
 - 모든 입력한 값들은 새로고침을 하여도 사라지지 않음
